@@ -9,10 +9,11 @@ Goal of the game:
 Pass each level as fast as you can and then beat the boss to complete the game.
 
 Controls:
-< - right
-> - left
-z - jump / double jump
-x - throw shuriken
+
+"<" - right
+">" - left
+"z" - jump / double jump
+"x" - throw shuriken
 
 Additional Updates:
 Sounds for game actions like running, throwing shurikens
